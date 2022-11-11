@@ -1,0 +1,13 @@
+﻿group,Expt_type,cond_A,cond_B,itemnum,Sentence
+B,Marta,v.psicológico,OVS,1,Al joven le interesa la empleada por sus muchos conocimientos.
+A,Marta,v.psicológico,SVO,1,La empleada le interesa al joven por sus muchos conocimientos.
+D,Marta,v.transitivo,OVS,1,Al joven le ruega la empleada por sus muchos conocimientos.
+C,Marta,v.transitivo,SVO,1,La empleada le ruega al joven por sus muchos conocimientos.
+A,Marta,v.psicológico,OVS,2,Al chico le atrae el camarero que suele venir pronto.
+D,Marta,v.psicológico,SVO,2,El camarero le atrae al chico que suele venir pronto.
+C,Marta,v.transitivo,OVS,2,Al chico le contesta el camarero que suele venir pronto.
+B,Marta,v.transitivo,SVO,2,El camarero le contesta al chico que suele venir pronto.
+D,Marta,v.psicológico,OVS,3,Al paciente le molesta la enfermera que acaba de entrar.
+C,Marta,v.psicológico,SVO,3,La enfermera le molesta al paciente que acaba de entrar.
+B,Marta,v.transitivo,OVS,3,Al paciente le sonríe la enfermera que acaba de entrar.
+A,Marta,v.transitivo,SVO,3,La enfermera le sonríe al paciente que acaba de entrar.
