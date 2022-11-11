@@ -1,0 +1,33 @@
+
+
+.Message-Message {
+    text-align: center;
+
+}
+
+.DashedSentence { 
+    font-size: 34;
+}  
+
+.Form { 
+    font-size: 14;
+}  
+.FlashSentence-flashed-sentence {
+    font-size: 20;        // This is to resize the text of the comprehension questions
+    margin-top: +5.5em;     // This moves the text a bit up so that is closer to the picture
+}
+
+.Question {
+    font-size: 20;        // This is to resize the text of the comprehension questions
+    margin-top: +5.5em;     // This moves the text a bit up so that is closer to the picture
+}
+
+.DashedSentence-sentence {
+     background-color: white;
+     clear: both;
+     font-size: 50;
+     margin-top: +1.5em;     // This moves the text a bit up so that is closer to the picture
+     
+
+}
+

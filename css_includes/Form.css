@@ -1,0 +1,12 @@
+.error-text {
+    color: red;
+    font-weight: bold;
+}
+
+.FlashSentence-flashed-sentence {
+    font-size: 36;        // This is to resize the text of the comprehension questions
+}
+
+.grade {
+    font-size: 36;        // This is to resize the text of the comprehension questions
+}
